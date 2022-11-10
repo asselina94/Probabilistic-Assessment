@@ -10,4 +10,3 @@ Industrial radiography workers commonly use high radioactivity source and carry 
 In the actual accident case, the variables for calculating dose such as time, distance, shielding are not sure and it has high uncertainty. 
 
 Methodology of this study could not only be applied in accident of radiation worker but also radiological terror for public. 
-
